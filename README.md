@@ -8,7 +8,6 @@
 
 <br>
 
-![Prévia da Página](./caminho/para/seu/gif-ou-imagem.png)
 
 <br>
 
@@ -40,7 +39,7 @@ Este projeto foi crucial para solidificar meu conhecimento em CSS avançado e na
 <br>
 
 ## 👨‍💻 Autor
-Feito por **[Juam Petro Barbosa Garrido]**
+Feito por **Juam Petro Barbosa Garrido**
 
 
 * GitHub: [@Garrido-Dev](https://github.com/Garrido-Dev)
