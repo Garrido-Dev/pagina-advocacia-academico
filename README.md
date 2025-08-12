@@ -4,7 +4,7 @@
 
 <br>
 
-🔗 **Ver projeto ao vivo:** ([](https://garrido-dev.github.io/pagina-advocacia-academico/))
+🔗 **Ver projeto ao vivo:** [([](https://garrido-dev.github.io/pagina-advocacia-academico/))]
 
 <br>
 
