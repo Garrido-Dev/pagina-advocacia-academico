@@ -40,7 +40,7 @@ Este projeto foi crucial para solidificar meu conhecimento em CSS avançado e na
 <br>
 
 ## 👨‍💻 Autor
-Feito por **[Seu Nome Completo]**
+Feito por **[Juam Petro Barbosa Garrido]**
 
 
-* GitHub: [@seu-usuario]((https://github.com/Garrido-Dev))
+* GitHub: [@seu-usuario]([https://github.com/Garrido-Dev])
