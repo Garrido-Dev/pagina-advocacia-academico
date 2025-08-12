@@ -4,7 +4,7 @@
 
 <br>
 
-🔗 **Ver projeto ao vivo:** [https://link-do-seu-projeto.netlify.app/](https://link-do-seu-projeto.netlify.app/)
+🔗 **Ver projeto ao vivo:** ([](https://garrido-dev.github.io/pagina-advocacia-academico/))
 
 <br>
 
