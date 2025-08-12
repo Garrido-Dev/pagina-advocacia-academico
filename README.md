@@ -4,7 +4,7 @@
 
 <br>
 
-🔗 **Ver projeto ao vivo:** [([](https://garrido-dev.github.io/pagina-advocacia-academico/))]
+🔗 **Ver projeto ao vivo:** [advocaciapagina.netlify.app](https://advocaciapagina.netlify.app/)
 
 <br>
 
@@ -42,5 +42,5 @@ Este projeto foi crucial para solidificar meu conhecimento em CSS avançado e na
 ## 👨‍💻 Autor
 Feito por **[Seu Nome Completo]**
 
-* LinkedIn: [[Seu Nome]](https://link-para-seu-linkedin/)
-* GitHub: [@seu-usuario](https://github.com/seu-usuario)
+
+* GitHub: [@seu-usuario]((https://github.com/Garrido-Dev))
