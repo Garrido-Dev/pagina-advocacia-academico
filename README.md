@@ -43,4 +43,4 @@ Este projeto foi crucial para solidificar meu conhecimento em CSS avançado e na
 Feito por **[Juam Petro Barbosa Garrido]**
 
 
-* GitHub: [@seu-usuario]([https://github.com/Garrido-Dev])
+* GitHub: [@Garrido-Dev](https://github.com/Garrido-Dev)
